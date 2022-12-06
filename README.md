@@ -1,4 +1,4 @@
-# Script to provisioning configuration to network devices via Telnet
+# Script to provision network configuration via Telnet
 
 Script writen on **Python** with **Telnetlib** module.
 
